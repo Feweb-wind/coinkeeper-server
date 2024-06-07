@@ -51,15 +51,15 @@ module.exports = appInfo => {
     // 单数据库信息配置
     client: {
       // host
-      host: 'localhost',
+      host: '101.201.108.246',
       // 端口号
-      port: '',
+      port: '3306',
       // 用户名
       user: 'root',
       // 密码
-      password: '',
+      password: 'Cf%123456!',
       // 数据库名
-      database: 'jue-cost',
+      database: 'sys',
     },
     // 是否加载到 app 上，默认开启
     app: true,
